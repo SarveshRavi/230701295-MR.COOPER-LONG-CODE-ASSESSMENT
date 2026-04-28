@@ -35,39 +35,3 @@ def main():
         print("PLease select yes/no")    
 if __name__ == "__main__":
     main()        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Post conditions- Booking record created.Room status updated Invoice generated on checkout.NoNFUNCTIONAL- AVailability check must be real time. Booking confirmation sent within 5s.System must prevent double booking via transactional locking    
